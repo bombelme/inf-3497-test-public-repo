@@ -26,7 +26,3 @@ steps:
         else
           echo "Using ticket: $title"
         fi
-        uptime
-        uname -a
-        pwd
-        
